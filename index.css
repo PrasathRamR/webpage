@@ -65,6 +65,5 @@ ul.topnav li {float: none;}
   }
   
 .copyright{
-  text-align: center;
-  text-location: bottom;
+  text-location: bottom,center;
 }
