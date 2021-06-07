@@ -71,3 +71,10 @@ ul.topnav li {float: none;}
 .bk{
   background-image: url("bk2.png")
 }
+
+.footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
