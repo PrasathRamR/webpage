@@ -74,5 +74,5 @@ ul.topnav li {float: none;}
 
 
 .grad {
-  background-image: linear-gradient( rgba(255,0,0,0), rgba(0,210,255,1));
+  background-image: linear-gradient( rgba(255,0,0,0), rgba(0,210,255,0.5));
 }
