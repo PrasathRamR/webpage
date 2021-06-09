@@ -182,8 +182,8 @@ ul.topnav li.right {float: right;}
   }
   
 
-.background{
-	background: image(url("bk.png"))
+.grad {
+  background-image: linear-gradient( rgba(255,0,0,0), rgba(0,210,255,1));
 }
 
 
